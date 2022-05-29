@@ -6,5 +6,6 @@ public class CQK {
         System.out.println("我是2");
         System.out.println("我是3");
         System.out.println("我是4");
+        System.out.println("我是master");
     }
 }
