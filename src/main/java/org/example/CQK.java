@@ -9,5 +9,6 @@ public class CQK {
         System.out.println("我是master");
         System.out.println("我是hot-fix");
         System.out.println("我push了");
+        System.out.println("我pull了");
     }
 }
